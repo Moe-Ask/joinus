@@ -14,9 +14,25 @@
 
 # 移动端
 
+## flutter
+
+能使用 flutter 构建 Android/iOS 应用，目前要求是能用就行。
+
 # web端
 
+## Vue
+
+能熟练运用 Vue 构建 web 前端，目前使用的是 Vuetify 组件框架（后期会进行重构）
+
+# 后端
+
+## GoLang
+
+要求不是很高，会写就行。echo+mysql+redis（后期可能会用 **其他语言** 进行重构）
+
 # 其他
+
+暂无
 
 # 联系方式
 
